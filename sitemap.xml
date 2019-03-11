@@ -3,33 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://leroylau.github.io/posts/</loc>
+    <loc>https://example.com/posts/%E5%A6%82%E4%BD%95%E5%BB%BA%E7%AB%8B%E5%85%B3%E4%BA%8E%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</loc>
+    <lastmod>2019-03-08T16:30:42+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://leroylau.github.io/about/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <loc>https://example.com/about/</loc>
   </url>
   
   <url>
-    <loc>https://leroylau.github.io/categories/</loc>
-    <changefreq>monthly</changefreq>
+    <loc>https://example.com/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://leroylau.github.io/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <loc>https://example.com/</loc>
+    <lastmod>2019-03-08T16:30:42+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://leroylau.github.io/tags/</loc>
-    <changefreq>monthly</changefreq>
+    <loc>https://example.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/%E5%A6%82%E4%BD%95%E5%BC%80%E5%A7%8B/</loc>
+    <lastmod>2019-03-08T16:30:42+08:00</lastmod>
     <priority>0</priority>
   </url>
   

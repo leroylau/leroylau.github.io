@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>如何开始 on 天空之城</title>
+    <link>https://example.com/tags/%E5%A6%82%E4%BD%95%E5%BC%80%E5%A7%8B/</link>
+    <description>Recent content in 如何开始 on 天空之城</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2018–2019, William; all rights reserved.</copyright>
+    <lastBuildDate>Fri, 08 Mar 2019 16:30:42 +0800</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/%E5%A6%82%E4%BD%95%E5%BC%80%E5%A7%8B/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>如何建立关于机器学习的基础知识</title>
+      <link>https://example.com/posts/%E5%A6%82%E4%BD%95%E5%BB%BA%E7%AB%8B%E5%85%B3%E4%BA%8E%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</link>
+      <pubDate>Fri, 08 Mar 2019 16:30:42 +0800</pubDate>
+      
+      <guid>https://example.com/posts/%E5%A6%82%E4%BD%95%E5%BB%BA%E7%AB%8B%E5%85%B3%E4%BA%8E%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</guid>
+      <description>摸清楚机器学习在解决实际问题中大部分“坑”，才能在实际工作中游刃有余、信心十足。而达到这一状态的方法只有一个：
+ 不断练习
+ 遵循一定的流程 机器学习项目存在一定的范式，虽然每个项目都有自己的特点，但是在解决问题过程中，我们可以参考这个范式。
+关于范式可以参考另一篇blog：[机器学习范式]()
+选择合适的工具 目前存在多种机器学习框架，例如国外有google的tensorflow, facebook的pytorch,keras，scikit-learn，微软的CNTK，国内有百度的PaddlePaddle等等。
+我的建议是：跟着教程把基础案例都尝试一下，对每个框架的API设计有个初步的印象，然后选择自己喜欢的框架来开展后续的学习。这里需要注意的是：
+ 在初期不要尝试一下子把所有框架学完，框架本身只是一个工具，我们的目的是尽快掌握机器学习的基础知识和模型，具备足够的基础知识后，学习框架其实非常快，所以选择一个框架就行。
+ 寻找小规模数据集不断练习 UCI值得你花费时间去寻找自己需要的数据集。下载不同类型的数据集，然后一个一个的学习机器学习模型，然后利用框架去练习机器学习范式，在练习中发现问题。
+很多人问要不要自己去实现机器学习模型，我的建议是：前期简单的机器学习模型值得自己实现。</description>
+    </item>
+    
+  </channel>
+</rss>
